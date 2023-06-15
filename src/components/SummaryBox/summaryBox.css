@@ -1,0 +1,17 @@
+.summaryBox {
+    border: 1px solid gray;
+    margin-bottom: 3px;
+}
+
+.summaryBox .data>.ant-row:first-child {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.summaryBox .data {
+    padding-left: 7px;
+}
+
+.summaryBox img {
+    width: 100%;
+}
